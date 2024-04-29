@@ -44,7 +44,12 @@ button {
                 letter-spacing: 0.03em;
 }
 
-boxes {
+
+.destroy-btn {
+        background: #FF4E4E;
+}
+
+#boxes {
     display: flex;
         padding: 32px;
         align-items: flex-start;
